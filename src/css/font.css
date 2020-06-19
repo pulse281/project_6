@@ -21,3 +21,12 @@
     font-weight: 700;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon/icomoon.eot?mvqfp4');
+    src: url('../fonts/icomoon/icomoon.eot?mvqfp4#iefix') format('embedded-opentype'), url('../fonts/icomoon/icomoon.ttf?mvqfp4') format('truetype'), url('../fonts/icomoon/icomoon.woff?mvqfp4') format('woff'), url('../fonts/icomoon/icomoon.svg?mvqfp4#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
